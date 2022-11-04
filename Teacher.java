@@ -1,4 +1,4 @@
-```package inheretance;
+package inheretance;
 
 public class Teacher extends Person {
     private String subject;
@@ -20,4 +20,4 @@ public class Teacher extends Person {
     public String greetings() {
         return "Good Morning Students";
     }
-}```
+}
