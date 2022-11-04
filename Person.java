@@ -1,4 +1,4 @@
-```package inheretance;
+package inheretance;
 
 public abstract class Person {
     protected int age;
