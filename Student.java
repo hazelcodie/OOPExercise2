@@ -1,4 +1,4 @@
-```package inheretance;
+package inheretance;
 
 public class Student extends Person {
     private String course;
