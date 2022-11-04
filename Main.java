@@ -1,4 +1,4 @@
-```package inheretance;
+package inheretance;
 
 public class Main {
     
@@ -14,4 +14,4 @@ public class Main {
         p1 = in1;
         System.out.println(p1.getName() + ": " + p1.greetings());
     }
-} ```
+} 
